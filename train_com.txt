@@ -1,0 +1,1 @@
+python flow --model cfg/yolov2-tiny-2.cfg --load bin/yolov2-tiny.weights --train --annotation train/Annotations --dataset train/Images --gpu 1.0 --epoch 30 --lr 0.001 --savepb
