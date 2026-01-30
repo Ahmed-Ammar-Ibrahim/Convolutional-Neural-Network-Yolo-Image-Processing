@@ -62,6 +62,7 @@ In the figure above, the dataset consists of 77 images, including 67 images of c
 
 
 
-![Uploading image.png…]()
+<img width="591" height="419" alt="image" src="https://github.com/user-attachments/assets/a2bc1f91-5fcb-4986-b376-b8dac5e20012" />
+
 
 
